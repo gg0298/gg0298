@@ -9,6 +9,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gg0298&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gg0298&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=gg0298&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=gg0298&icon=0&color=0)](https://visitcount.itsvg.in)
 
